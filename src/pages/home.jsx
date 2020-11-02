@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import About from '../components/About/About';
-import Bannerss from '../components/Banner/Banner';
+import Banners from '../components/Banner/Banner';
 import Menu from '../components/Menu/Menu';
 import Navbar from '../components/Navbar/Navbar';
 import Sidebar from '../components/Sidebar/Sidebar';
